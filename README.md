@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Héctor!</h1>
 
 <p align="center">
-💻 <strong>Desarrollador Web Full Stack con Python</strong><br>
+💻 <strong>Estudiando para se Desarrollador Web Full Stack Java </strong><br>
 Enfocado en crear soluciones web eficientes y funcionales.
 </p>
 
@@ -14,15 +14,16 @@ Enfocado en crear soluciones web eficientes y funcionales.
 
 ### 🎓 Formación
 - **Actualmente:** Estudiando Full Stack Java en Generation Chile  
-- **2024:** Cursé Full Stack Python en Coding Dojo
+- **2024:** Python para desarrollo web
 
 ---
 
-### 🛠️ Tecnologías que uso
+### 🛠️ Tecnologías que estoy aprendiendo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
 
