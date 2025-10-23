@@ -21,9 +21,11 @@ Apasionado por crear soluciones web eficientes y funcionales.
 
 ---
 
+
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sylarms23&show_icons=true&theme=gruvbox)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sylarms23&layout=compact&theme=gruvbox)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sylarms23&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sylarms23&layout=compact&theme=gruvbox&hide_border=true&hide_title=true)
+
 
 ---
 
