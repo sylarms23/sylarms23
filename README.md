@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 <strong>Desarrollador Web FullStack con Python</strong><br>
-Apasionado por crear soluciones web eficientes y funcionales.
+Enfocado en crear soluciones web eficientes y funcionales.
 </p>
 
 
