@@ -7,11 +7,23 @@ Apasionado por crear soluciones web eficientes y funcionales.
 
 ---
 
+### 🎓 Formación
+- **Actualmente:** Estudiando en Generation Chile  
+- **2024:** Curso FullStack Python
+
+---
+
 ### 🛠️ Tecnologías que uso
-- Python 🐍
-- HTML 🌐
-- CSS 🎨
-- JavaScript ⚡
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sylarms23&show_icons=true&theme=gruvbox)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sylarms23&layout=compact&theme=gruvbox)
 
 ---
 
@@ -23,8 +35,8 @@ Apasionado por crear soluciones web eficientes y funcionales.
 
 ### 📫 Contacto
 Puedes conectarte conmigo a través de:  
-- [LinkedIn](https://www.linkedin.com/)  
-- [Correo electrónico](mailto:hector.chacong@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 ---
 
