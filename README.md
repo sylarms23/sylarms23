@@ -36,7 +36,7 @@ Apasionado por crear soluciones web eficientes y funcionales.
 ### 📫 Contacto
 Puedes conectarte conmigo a través de:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hector.chacong@gmail.com)
 
 ---
 
