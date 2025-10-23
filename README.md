@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Héctor</h1>
 
 <p align="center">
-💻 <strong>Desarrollador Web FullStack con Python</strong><br>
+💻 <strong>Desarrollador Web Full Stack con Python</strong><br>
 Enfocado en crear soluciones web eficientes y funcionales.
 </p>
 
@@ -13,8 +13,8 @@ Enfocado en crear soluciones web eficientes y funcionales.
 ---
 
 ### 🎓 Formación
-- **Actualmente:** Estudiando FullStack Java en Generation Chile  
-- **2024:** Cursé FullStack Python en Coding Dojo
+- **Actualmente:** Estudiando Full Stack Java en Generation Chile  
+- **2024:** Cursé Full Stack Python en Coding Dojo
 
 ---
 
