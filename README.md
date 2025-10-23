@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Héctor!</h1>
 
 <p align="center">
-💻 <strong>Estudiando para se Desarrollador Web Full Stack Java </strong><br>
+💻 <strong>Estudiando para ser Desarrollador Web Full Stack Java </strong><br>
 Enfocado en crear soluciones web eficientes y funcionales.
 </p>
 
